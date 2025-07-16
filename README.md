@@ -1,4 +1,3 @@
-```markdown
 # TwitterApi
 
 A modern ASP.NET Core Web API inspired by Twitter, providing robust user, post, comment, and tag management. Built with .NET 8 and C# 12, this solution leverages Entity Framework Core, Identity, JWT authentication, and Swagger for API documentation.
